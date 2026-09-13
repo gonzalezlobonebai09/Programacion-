@@ -1,0 +1,34 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #ebebe5;
+    margin: 0;
+    padding: 20px;
+    color: #000000;
+}
+
+[class^="caja"] {
+    width: 150px;
+    padding: 8px 12px;
+    margin-bottom: 10px;
+    border-radius: 8px;
+    border: 3px solid #000000;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    font-weight: bold;
+}
+.caja1  { background-color: #c23636; }
+.caja2  { background-color: #bb6524; }
+.caja3  { background-color: #d4c81b; }
+.caja4  { background-color: #48a03f; }
+.caja5  { background-color: #27885f; }
+.caja6  { background-color: #314f8b; }
+.caja7  { background-color: #302192; }
+.caja8  { background-color: #533f83; }
+.caja9  { background-color: #9253e3; }
+.caja10 { background-color: #d2109b; }
+.caja11 { background-color: #f57ed1; }
+.caja12 { background-color: #cc0c32; }
+.caja13 { background-color: #6a0a30; }
+.caja14 { background-color: #de6060; }
+.caja15 { background-color: #fa4903; }
